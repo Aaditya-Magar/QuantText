@@ -16,7 +16,7 @@ character and symbol counts in one click.
 
 ## 🔗 Live Demo
 
-> https://quanttext.versel.app
+> https://quanttext.vercel.app
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +41,7 @@ Then open <http://localhost:5173>.
 
 ```bash
 npm run build
+or
 bun run build
 ```
 
